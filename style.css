@@ -33,6 +33,11 @@ body{
     background-color: #FFFF82;
 }
 
+.box:hover{
+    opacity: 0.3;
+    cursor: pointer;
+}
+
 #reset-btn{
     padding: 1rem;
     font-size: 1.25rem;
